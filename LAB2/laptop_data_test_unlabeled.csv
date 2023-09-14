@@ -1,6 +1,14 @@
 id,Company,TypeName,Ram,Weight,TouchScreen,Ips,Ppi,Cpu_brand,HDD,SSD,Gpu_brand,Os,CalculatedPrice
-1234,HP,Notebook,4,2.1,0,0,141.21199808219862,Intel Core i3,1000.0,0,Intel,Windows,
-691,Lenovo,Notebook,4,1.7,0,0,157.3505121487356,Intel Core i5,0.0,256,Intel,Windows,
+704,Lenovo,Notebook,4,1.9,0,0,100.45466986113652,Intel Core i3,500.0,0,Intel,Others
+241,Asus,Notebook,8,2.1,0,0,127.33567457123112,Intel Core i7,1000.0,128,Nvidia,Windows
+1042,Toshiba,Notebook,16,2.4,0,1,141.21199808219862,Intel Core i7,0.0,256,Nvidia,Windows
+217,HP,Notebook,8,1.63,0,0,157.3505121487356,Intel Core i7,0.0,256,Nvidia,Windows
+302,Lenovo,Notebook,6,2.8,0,0,106.11306214269258,Intel Core i5,1000.0,0,Nvidia,Windows
+824,Lenovo,Ultrabook,8,1.13,0,1,157.3505121487356,Intel Core i5,0.0,0,Intel,Windows
+888,Acer,Netbook,4,1.25,0,1,135.0942111925629,Other Intel Processor,0.0,0,Intel,Others
+463,Lenovo,Notebook,8,1.5,0,1,157.3505121487356,Intel Core i7,0.0,512,AMD,Others
+1261,Dell,Notebook,6,2.3,0,0,100.45466986113652,Intel Core i3,1000.0,0,Intel,Windows
+880,HP,2 in 1 Convertible,4,1.28,1,0,165.6321180513006,Intel Core i5,0.0,256,Intel,Windows
 894,MSI,Gaming,16,2.43,0,1,254.67134914246225,Intel Core i7,2000.0,512,Nvidia,Windows,
 766,Asus,Notebook,4,2.8,0,0,90.58340172449304,Other Intel Processor,1000.0,0,Nvidia,Windows,
 739,Acer,Notebook,4,2.4,0,0,100.45466986113652,Intel Core i3,500.0,0,Intel,Windows,
